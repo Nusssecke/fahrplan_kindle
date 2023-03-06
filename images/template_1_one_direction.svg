@@ -1,0 +1,26 @@
+<svg id="svg3355" xmlns="http://www.w3.org/2000/svg" height="800" width="600" version="1.1">
+ <rect id="rect818" height="126.27" width="600" y=".61985" x="0" fill="#999"/>
+ <text id="text3359" font-size="50px" font-family="sans-serif" y="78.342072" x="55.796478" font-weight="bold" fill="#000000">
+  <tspan id="tspan3389">Zugverbindungen</tspan>
+  <tspan id="tspan4363"/>
+ </text>
+ <text id="text3379" font-size="60px" y="771.86438" x="419.66101" fill="#000000">clock</text>
+ <g font-family="sans-serif" fill="#000000">
+  <text id="text3439" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="200.64507" x="25.902716" ><tspan id="tspan3445" x="25.902716" y="200.64507">Abfahrt: de_0</tspan></text>
+  <text id="text3451" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="260.98196" x="22.191778" ><tspan id="tspan3453" x="22.191778" y="260.98196">Umstiege: c_0</tspan></text>
+  <text id="text3455" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" y="240.43051" x="410.71207" ><tspan id="tspan3457" font-size="90px" y="240.43051" x="410.71207">d_0</tspan></text>
+ </g>
+ <path id="path1037-4" d="m123.06 311.21h330.2" stroke="#e6e6e6" stroke-linecap="round" stroke-width="10.731" fill="#b3b3b3"/>
+ <g font-family="sans-serif" fill="#000000">
+  <text id="text4359" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" y="179.66103" x="230.50847" ><tspan id="tspan4361" x="230.50847" y="179.66103"/></text>
+  <text id="text3439-4" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="399.80533" x="21.571695" ><tspan id="tspan3445-2" x="21.571695" y="399.80533">Abfahrt: de_1</tspan></text>
+  <text id="text3451-4" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="460.14224" x="19.059244" ><tspan id="tspan3453-1" x="19.059244" y="460.14224">Umstiege: c_1</tspan></text>
+  <text id="text3455-2" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" y="440.78928" x="411.17499" ><tspan id="tspan3457-7" font-size="90px" y="440.78928" x="411.17499">d_1</tspan></text>
+ </g>
+ <path id="path1037-4-4" d="m123.53 511.57h330.2" stroke="#e6e6e6" stroke-linecap="round" stroke-width="10.731" fill="#b3b3b3"/>
+ <g font-family="sans-serif" fill="#000000">
+  <text id="text3439-3" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="596.35706" x="22.770184" ><tspan id="tspan3445-6" x="22.770184" y="596.35706">Abfahrt: de_2</tspan></text>
+  <text id="text3451-5" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="50px" y="656.69403" x="19.059246" ><tspan id="tspan3453-9" x="19.059246" y="656.69403">Umstiege: c_2</tspan></text>
+  <text id="text3455-4" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" y="637.341" x="411.17502" ><tspan id="tspan3457-8" font-size="90px" y="637.341" x="411.17502">d_2</tspan></text>
+ </g>
+</svg>

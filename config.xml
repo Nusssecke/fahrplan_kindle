@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <information>
+        <name>Kindle RMV Fahrplan Anzeige</name>
+        <version>0.1</version>
+        <author>Finn Wagner</author>
+        <id>fahrplan_kindle</id>
+    </information>
+    <menus>
+        <menu type="json" dynamic="true">menu.json</menu>
+    </menus>
+</extension>
