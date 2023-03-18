@@ -24,8 +24,6 @@ https://github.com/NiLuJe/FBInk
 
 Has python bindings; https://github.com/NiLuJe/py-fbink/blob/master/hello.py
 
-But they are not that good so i wrote a better wrapper
-
 ## RMV Hafas Api
 
 https://www.rmv.de/hapi/
